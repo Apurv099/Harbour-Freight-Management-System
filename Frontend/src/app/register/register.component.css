@@ -1,0 +1,15 @@
+.wrapper{
+    background: #e5e5e5;
+    height: 100%;
+
+    padding: 0 200px;
+  }
+  .head{
+    background: #fff;
+    font-size: 24px;
+    /* color: #fff; */
+  }
+  .formWrapper{
+    background: #fff;
+    padding: 40px 70px;
+  }

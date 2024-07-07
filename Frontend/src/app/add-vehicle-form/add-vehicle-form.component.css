@@ -1,0 +1,22 @@
+.wrapper{
+  background: #e5e5e5;
+  height: 100%;
+
+  padding: 0 200px;
+}
+.head{
+  background: #fff;
+  font-size: 24px;
+  position: relative;
+}
+.editProfile{
+  position: absolute;
+  left: 20px;
+  top: 12px;
+}
+.formWrapper{
+  background: #fff;
+}
+mat-radio-button {
+  margin-left: 10px;
+}
